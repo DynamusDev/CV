@@ -37,8 +37,6 @@ São Paulo/SP
 
 **Banco de Dados:**
 * MySQL
-* PostgreSQL
-* SQLite
 * MongoDB
 
 **Infra**
@@ -52,6 +50,7 @@ São Paulo/SP
 
 **Experiências em outras linguagens:**
 * JavaScript
+* TypeScript
 ---
 
 ## Informações adicionais
@@ -69,6 +68,9 @@ São Paulo/SP
 
 * 2014/2018 - **Thales Group**
 > Desenvolvimento de sistemas responsivos e programação de microcontroladores.
+
+* Freelancer - **Cantoo Scribe**
+> Estilização e componentização de aplicativos em ReactJs e React-Native
 
 
 ---
