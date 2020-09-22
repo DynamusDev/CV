@@ -37,6 +37,7 @@ São Paulo/SP
 
 **Banco de Dados:**
 * MySQL
+* PostgreSQL
 * MongoDB
 
 **Infra**
