@@ -65,7 +65,7 @@ São Paulo/SP
 ---
 
 ## Experência Profissional
-* jan/2020 - dias atuais - **Tecla T / Desenvolvedor FullStack**
+* jan/2020 - dias atuais - **Tecla T / Tech Lead & Desenvolvedor FullStack**
 > Desenvolvimento dos dos aplicativos demandados pela empresa englobando o **Back-end** o **Front-end** e o **Mobile** das aplicações utilizando Javascript e Typescript.
 
 * abr/2018 - maio/2020 - **Helicidade Heliporto / Analista de Sistemas**
