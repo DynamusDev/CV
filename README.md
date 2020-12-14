@@ -66,10 +66,10 @@ São Paulo/SP
 
 ## Experência Profissional
 * jan/2020 - dias atuais - **Tecla T / Tech Lead & Desenvolvedor FullStack**
-> Desenvolvimento dos dos aplicativos demandados pela empresa englobando o **Back-end** o **Front-end** e o **Mobile** das aplicações utilizando Javascript e Typescript.
+> Desenvolvimento dos dos aplicativos demandados pela empresa englobando o **Back-end**(NodeJS) o **Front-end**(ReactJs) e o **Mobile**(React-Native) das aplicações utilizando Javascript e Typescript.
 
-* abr/2018 - maio/2020 - **Helicidade Heliporto / Analista de Sistemas**
-> Desenvolvimento e coordenando o **Back-end** o **Front-end** e o **Mobile** do aplicativo de gestão e gerenciamento de riscos do Heliporto , modernizando o site da empresa, dando manutenção a sistemas legados.
+* abr/2018 - maio/2020 - **Helicidade Heliporto / Tech Lead & Javascript Developer**
+> Desenvolvimento e coordenando o **Back-end**(NodeJS) o **Front-end**(ReactJs) e o **Mobile**(React-Native) do aplicativo de gestão e gerenciamento de riscos do Heliporto , modernizando o site da empresa, dando manutenção a sistemas legados.
 
 * 2014/2018 - **Thales Group**
 > Desenvolvimento de sistemas responsivos e programação de microcontroladores.
